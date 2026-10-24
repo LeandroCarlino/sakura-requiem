@@ -4,7 +4,9 @@
 
 Three wardens. One last song. The dead are listening.
 
-[![Play in browser](https://img.shields.io/badge/play-free-ff8fb1?style=for-the-badge)](#play-it)
+**▶ Play online: [leandrocarlino.github.io/sakura-requiem](https://leandrocarlino.github.io/sakura-requiem/)**
+
+[![Play in browser](https://img.shields.io/badge/play-free-ff8fb1?style=for-the-badge)](https://leandrocarlino.github.io/sakura-requiem/)
 [![English / Español](https://img.shields.io/badge/language-EN%20%2F%20ES-c99a4a?style=for-the-badge)](#localization)
 [![No build step](https://img.shields.io/badge/build-none-7ee0d0?style=for-the-badge)](#project-structure)
 
@@ -255,6 +257,8 @@ derived from any existing anime, game or franchise.
 entero en tu navegador.**
 
 Tres guardianas. Una última canción. Los muertos escuchan.
+
+**▶ Jugar en línea: [leandrocarlino.github.io/sakura-requiem](https://leandrocarlino.github.io/sakura-requiem/)**
 
 Sakura Requiem es un JRPG corto y completo: seis capítulos, 24 combates, jefes
 con fases, debilidades elementales, estados alterados, definitivas, reliquias,
