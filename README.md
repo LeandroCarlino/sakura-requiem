@@ -130,7 +130,7 @@ The game is a static site. Any static host works:
 - Use **Save** on the map to write to any of the three slots.
 - **Export** produces a text code you can paste into **Import** on another
   device or browser.
-- **Settings → Delete all data** wipes saves, meta progression and settings.
+- **Settings → Erase all progress** wipes saves, meta progression and settings.
 
 ---
 
@@ -337,7 +337,7 @@ build: la carpeta raíz es el sitio.
 - En el mapa, **Guardar** escribe en cualquiera de las tres ranuras.
 - **Exportar** genera un código que puedes pegar en **Importar** en otro
   dispositivo.
-- **Ajustes → Borrar todos los datos** elimina partidas, progreso meta y ajustes.
+- **Ajustes → Borrar todo el progreso** elimina partidas, progreso meta y ajustes.
 
 ## Estructura del proyecto
 

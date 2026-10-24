@@ -63,7 +63,7 @@ content.
 
 Because the game collects nothing, there is nothing for us to access, correct,
 export or delete on a server. You can delete all local data at any time from
-**Settings → Delete all data** or by clearing site data in your browser.
+**Settings → Erase all progress** or by clearing site data in your browser.
 
 ### Changes
 
@@ -134,7 +134,7 @@ El juego no recoge conscientemente información de nadie, incluidos menores de
 
 Como el juego no recoge nada, no hay nada que podamos consultar, corregir,
 exportar ni borrar en un servidor. Puedes eliminar todos los datos locales en
-cualquier momento desde **Ajustes → Borrar todos los datos** o borrando los
+cualquier momento desde **Ajustes → Borrar todo el progreso** o borrando los
 datos del sitio en tu navegador.
 
 ### Cambios

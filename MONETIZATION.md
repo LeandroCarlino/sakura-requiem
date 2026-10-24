@@ -28,10 +28,11 @@ The pack grants:
 
 - **Moonlight costumes** — alternate colour palettes for Hana, Yuki and Ren,
   applied everywhere their portraits are drawn.
-- **500 Embers** — the meta currency used for permanent upgrades and Rift
-  Trials retries. Embers can also be earned by playing, so this is a
-  convenience, not an exclusive advantage.
-- **Art card** — a bonus illustration shown from the Support screen.
+- **Bonus Embers** (500 by default) — the meta currency used for permanent
+  upgrades and Rift Trials retries. Embers can also be earned by playing, so
+  this is a convenience, not an exclusive advantage.
+- **Art card** — a bonus illustration available from the Party screen while the
+  pack is active.
 
 It never unlocks chapters, stats, relics or difficulty options.
 
