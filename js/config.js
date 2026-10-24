@@ -13,10 +13,10 @@ SR.config = {
   // Where players can support the project. Leave a field empty to hide that button.
   support: {
     enabled: true,
-    kofi: 'https://ko-fi.com/YOUR_HANDLE',
+    kofi: '',
     patreon: '',
-    itch: 'https://YOUR_HANDLE.itch.io/sakura-requiem',
-    github: 'https://github.com/YOUR_HANDLE/sakura-requiem',
+    itch: '',
+    github: 'https://github.com/LeandroCarlino/sakura-requiem',
     email: ''
   },
 

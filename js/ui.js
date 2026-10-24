@@ -441,7 +441,9 @@ window.SR = window.SR || {};
           <div class="perk"><b>✦</b> ${SR.lang === 'es' ? 'Carta de arte exclusiva del reparto' : 'Exclusive cast art card'}</div>
         </div>
         <div class="row" style="margin-top:.5rem;flex-wrap:wrap">
-          <a class="btn btn--gold btn--sm" href="${UI.esc(sup.itch || '#')}" target="_blank" rel="noopener">${SR.t('support.packTitle')}</a>
+          ${(sup.itch || sup.kofi || sup.patreon)
+            ? `<a class="btn btn--gold btn--sm" href="${UI.esc(sup.itch || sup.kofi || sup.patreon)}" target="_blank" rel="noopener">${SR.t('support.packTitle')}</a>`
+            : `<button class="btn btn--gold btn--sm" data-store-soon>${SR.t('support.packTitle')}</button>`}
           <button class="btn btn--sm" data-code-toggle>${SR.t('support.codeLabel')}</button>
         </div>
         <div class="code-row hidden" data-code-row>
@@ -456,6 +458,10 @@ window.SR = window.SR || {};
       </div>
       <p class="center muted tiny" style="margin-top:.8rem">${SR.t('support.thanks')}</p>`;
     const wrap = UI.modal({ title: SR.t('support.title'), body, wide: true });
+    const soon = wrap.querySelector('[data-store-soon]');
+    if (soon) {
+      soon.addEventListener('click', () => UI.toast(SR.t('support.storeSoon'), 'gold'));
+    }
     const toggle = wrap.querySelector('[data-code-toggle]');
     if (toggle) {
       toggle.addEventListener('click', () => {
