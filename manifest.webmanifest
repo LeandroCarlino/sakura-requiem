@@ -1,0 +1,17 @@
+{
+  "name": "Sakura Requiem",
+  "short_name": "Sakura Requiem",
+  "description": "A bilingual turn-based anime RPG about petals, spirits and one last song.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b0710",
+  "theme_color": "#0b0710",
+  "lang": "en",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
